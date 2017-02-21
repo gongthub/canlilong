@@ -1,0 +1,13 @@
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\CMS.Data.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\CMS.Data.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\CMS.Code.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\EntityFramework.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\Newtonsoft.Json.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\log4net.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\NPOI.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\bin\Release\CMS.Code.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\obj\Release\CMS.Data.csprojResolveAssemblyReference.cache
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\obj\Release\CMS.Data.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Data\obj\Release\CMS.Data.pdb

@@ -1,0 +1,9 @@
+D:\MyFiles\WebSite\canlilong\codes\CMS.Code\bin\Release\CMS.Code.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Code\bin\Release\CMS.Code.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Code\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Code\bin\Release\log4net.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Code\bin\Release\Newtonsoft.Json.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Code\bin\Release\NPOI.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Code\obj\Release\CMS.Code.csprojResolveAssemblyReference.cache
+D:\MyFiles\WebSite\canlilong\codes\CMS.Code\obj\Release\CMS.Code.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Code\obj\Release\CMS.Code.pdb

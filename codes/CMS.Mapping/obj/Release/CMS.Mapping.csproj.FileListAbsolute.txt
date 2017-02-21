@@ -1,0 +1,17 @@
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\CMS.Mapping.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\CMS.Mapping.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\CMS.Domain.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\EntityFramework.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\EntityFramework.SqlServer.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\CMS.Data.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\CMS.Code.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\Newtonsoft.Json.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\log4net.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\NPOI.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\CMS.Domain.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\CMS.Data.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\bin\Release\CMS.Code.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\obj\Release\CMS.Mapping.csprojResolveAssemblyReference.cache
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\obj\Release\CMS.Mapping.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Mapping\obj\Release\CMS.Mapping.pdb

@@ -1,0 +1,16 @@
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\CMS.Repository.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\CMS.Repository.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\CMS.Code.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\CMS.Data.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\CMS.Domain.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\Newtonsoft.Json.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\log4net.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\NPOI.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\EntityFramework.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\CMS.Code.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\CMS.Data.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\bin\Release\CMS.Domain.pdb
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\obj\Release\CMS.Repository.csprojResolveAssemblyReference.cache
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\obj\Release\CMS.Repository.dll
+D:\MyFiles\WebSite\canlilong\codes\CMS.Repository\obj\Release\CMS.Repository.pdb
