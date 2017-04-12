@@ -103,6 +103,14 @@ namespace CMS.Application.SystemManage
                     {
                         return true;
                     }
+                    else
+                    {
+                        string[] urls = item.F_UrlAddress.Split('|');
+                        if (item.F_Id == moduleId && urls.Contains(action))
+                        {
+                            return true;
+                        }
+                    }
                 }
             }
             return false;
